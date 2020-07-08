@@ -28,7 +28,7 @@ function Header(props) {
     <div className={classes.root}>
       <AppBar>
         <Toolbar  className="navBar">
-          <Link to="/" style={{textDecoration:'none', color:"white", width:"20%"}}>            
+          <Link to="/HockeyShop/" style={{textDecoration:'none', color:"white", width:"20%"}}>            
             <div className="nameLogo">
               Tak's Hockey<img className="logo" src={require('./ice-hockey.png')} alt="icehockey" />
             </div>
