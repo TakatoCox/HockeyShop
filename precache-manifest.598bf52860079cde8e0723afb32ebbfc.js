@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "7f2d291d08deed3544274f14fbdbad50",
+    "revision": "cea3e72142e418105fa70843472231cb",
     "url": "/HockeyShop/index.html"
   },
   {
-    "revision": "8512130ad65d61b3d702",
+    "revision": "1af508ec74bb3241ae08",
     "url": "/HockeyShop/static/css/main.36596c6b.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/HockeyShop/static/js/2.358dabd7.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "8512130ad65d61b3d702",
-    "url": "/HockeyShop/static/js/main.3e1659ef.chunk.js"
+    "revision": "1af508ec74bb3241ae08",
+    "url": "/HockeyShop/static/js/main.eb0a2941.chunk.js"
   },
   {
     "revision": "2f988269efd8cf0dbb32",

@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/HockeyShop/static/css/main.36596c6b.chunk.css",
-    "main.js": "/HockeyShop/static/js/main.3e1659ef.chunk.js",
-    "main.js.map": "/HockeyShop/static/js/main.3e1659ef.chunk.js.map",
+    "main.js": "/HockeyShop/static/js/main.eb0a2941.chunk.js",
+    "main.js.map": "/HockeyShop/static/js/main.eb0a2941.chunk.js.map",
     "runtime-main.js": "/HockeyShop/static/js/runtime-main.262de65b.js",
     "runtime-main.js.map": "/HockeyShop/static/js/runtime-main.262de65b.js.map",
     "static/js/2.358dabd7.chunk.js": "/HockeyShop/static/js/2.358dabd7.chunk.js",
     "static/js/2.358dabd7.chunk.js.map": "/HockeyShop/static/js/2.358dabd7.chunk.js.map",
     "index.html": "/HockeyShop/index.html",
-    "precache-manifest.b036e44caf119223ce6c5dc95e8dfaec.js": "/HockeyShop/precache-manifest.b036e44caf119223ce6c5dc95e8dfaec.js",
+    "precache-manifest.598bf52860079cde8e0723afb32ebbfc.js": "/HockeyShop/precache-manifest.598bf52860079cde8e0723afb32ebbfc.js",
     "service-worker.js": "/HockeyShop/service-worker.js",
     "static/css/main.36596c6b.chunk.css.map": "/HockeyShop/static/css/main.36596c6b.chunk.css.map",
     "static/js/2.358dabd7.chunk.js.LICENSE.txt": "/HockeyShop/static/js/2.358dabd7.chunk.js.LICENSE.txt",
@@ -45,6 +45,6 @@
     "static/js/runtime-main.262de65b.js",
     "static/js/2.358dabd7.chunk.js",
     "static/css/main.36596c6b.chunk.css",
-    "static/js/main.3e1659ef.chunk.js"
+    "static/js/main.eb0a2941.chunk.js"
   ]
 }
