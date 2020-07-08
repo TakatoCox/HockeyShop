@@ -1,0 +1,45 @@
+.helmetPage{
+    display: flex;
+    flex-direction: column;
+    width:100%;
+    padding-top:100px;
+}
+.helmetTitle{
+    font-size: 50px;
+    text-align: center;
+}
+.helmetDisplay{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    width:100%;
+    justify-content: center;
+    align-items:center;
+}
+.itemHelmet{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items:center;
+    margin:70px;
+}
+.addCartButton{
+    background-color: rgb(20, 124, 243);
+    color: white;
+    border-radius: 20px;
+    outline: none;
+}
+.addCartButton:hover{
+    background-color: red;
+}
+.helmetPrice{
+    color: red;
+}
+.helmetBrand{
+    font-size:20px;
+}
+@media(max-width: 310px){
+    .helmetPage{
+        padding-top: 150px;
+    }
+}

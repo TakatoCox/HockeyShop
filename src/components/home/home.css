@@ -1,0 +1,58 @@
+.homePage{
+    padding-top: 100px;
+    width:100%;
+    min-height: 88.6vh;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    align-items: center;
+    background-image: url('./ice.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.bauer{
+    margin:10px;
+    width: 300px;
+    height: 30px;
+}
+.warrior{
+    margin:10px;
+    width: 250px;
+    height: 150px;
+}
+.ccm{
+    margin:10px;
+    width: 250px;
+    height: 70px;
+}
+.graf{
+    margin:10px;
+    width: 220px;
+    height: 100px;
+}
+.sherwood{
+    margin:10px;
+    width: 250px;
+    height: 80px;
+}
+.true{
+    margin:10px;
+    width: 300px;
+    height: 150px;
+}
+@media(max-width: 310px){
+    .homePage{
+        padding-top: 150px;
+    }
+    .bauer, .warrior, .ccm, .graf, .sherwood, .true{
+    width:150px
+    }
+    
+}
+@media(max-width: 310px){
+    .bauer, .warrior, .ccm, .graf, .sherwood, .true{
+    display: none;
+    }
+    
+}
